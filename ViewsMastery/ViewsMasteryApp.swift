@@ -11,7 +11,7 @@ import SwiftUI
 struct ViewsMasteryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Grid()
         }
     }
 }

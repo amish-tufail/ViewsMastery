@@ -12,6 +12,8 @@
 		EE0827822B6FF7FD001585D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE0827812B6FF7FD001585D4 /* Assets.xcassets */; };
 		EE0827852B6FF7FD001585D4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE0827842B6FF7FD001585D4 /* Preview Assets.xcassets */; };
 		EE08278D2B714407001585D4 /* ScrollViewReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE08278C2B714407001585D4 /* ScrollViewReaderBootCamp.swift */; };
+		EE08278F2B71472A001585D4 /* ControlGroupBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE08278E2B71472A001585D4 /* ControlGroupBootCamp.swift */; };
+		EE0827912B720F92001585D4 /* ViewThatFitsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0827902B720F92001585D4 /* ViewThatFitsBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		EE0827812B6FF7FD001585D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE0827842B6FF7FD001585D4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EE08278C2B714407001585D4 /* ScrollViewReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootCamp.swift; sourceTree = "<group>"; };
+		EE08278E2B71472A001585D4 /* ControlGroupBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupBootCamp.swift; sourceTree = "<group>"; };
+		EE0827902B720F92001585D4 /* ViewThatFitsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,8 @@
 			children = (
 				EE08277F2B6FF7FB001585D4 /* GridView.swift */,
 				EE08278C2B714407001585D4 /* ScrollViewReaderBootCamp.swift */,
+				EE08278E2B71472A001585D4 /* ControlGroupBootCamp.swift */,
+				EE0827902B720F92001585D4 /* ViewThatFitsBootCamp.swift */,
 			);
 			path = "Layout Views";
 			sourceTree = "<group>";
@@ -148,6 +154,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE0827912B720F92001585D4 /* ViewThatFitsBootCamp.swift in Sources */,
+				EE08278F2B71472A001585D4 /* ControlGroupBootCamp.swift in Sources */,
 				EE08278D2B714407001585D4 /* ScrollViewReaderBootCamp.swift in Sources */,
 				EE0827802B6FF7FB001585D4 /* GridView.swift in Sources */,
 				EE08277E2B6FF7FB001585D4 /* ViewsMasteryApp.swift in Sources */,

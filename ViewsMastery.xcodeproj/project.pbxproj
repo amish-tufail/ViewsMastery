@@ -14,6 +14,7 @@
 		EE08278D2B714407001585D4 /* ScrollViewReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE08278C2B714407001585D4 /* ScrollViewReaderBootCamp.swift */; };
 		EE08278F2B71472A001585D4 /* ControlGroupBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE08278E2B71472A001585D4 /* ControlGroupBootCamp.swift */; };
 		EE0827912B720F92001585D4 /* ViewThatFitsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0827902B720F92001585D4 /* ViewThatFitsBootCamp.swift */; };
+		EE0827932B721161001585D4 /* ContainerRelativeFrameBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0827922B721161001585D4 /* ContainerRelativeFrameBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		EE08278C2B714407001585D4 /* ScrollViewReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootCamp.swift; sourceTree = "<group>"; };
 		EE08278E2B71472A001585D4 /* ControlGroupBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupBootCamp.swift; sourceTree = "<group>"; };
 		EE0827902B720F92001585D4 /* ViewThatFitsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsBootCamp.swift; sourceTree = "<group>"; };
+		EE0827922B721161001585D4 /* ContainerRelativeFrameBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerRelativeFrameBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				EE08278C2B714407001585D4 /* ScrollViewReaderBootCamp.swift */,
 				EE08278E2B71472A001585D4 /* ControlGroupBootCamp.swift */,
 				EE0827902B720F92001585D4 /* ViewThatFitsBootCamp.swift */,
+				EE0827922B721161001585D4 /* ContainerRelativeFrameBootCamp.swift */,
 			);
 			path = "Layout Views";
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE0827932B721161001585D4 /* ContainerRelativeFrameBootCamp.swift in Sources */,
 				EE0827912B720F92001585D4 /* ViewThatFitsBootCamp.swift in Sources */,
 				EE08278F2B71472A001585D4 /* ControlGroupBootCamp.swift in Sources */,
 				EE08278D2B714407001585D4 /* ScrollViewReaderBootCamp.swift in Sources */,

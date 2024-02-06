@@ -16,7 +16,7 @@ struct ContainerRelativeFrameBootCamp: View {
                 ForEach(1...5, id: \.self) { _ in
                     RoundedRectangle(cornerRadius: 12.0)
                         .fill(.orange.opacity(0.5))
-                        .containerRelativeFrame(.horizontal, count: 5, span: 1, spacing: 3.0) // count means parts, and span mean how much each part takes space
+                        .containerRelativeFrame(.horizontal, count: 10, span: 1, spacing: 3.0) // count means parts, and span mean how much each part takes space
                 }
             }
             HStack {
@@ -28,9 +28,10 @@ struct ContainerRelativeFrameBootCamp: View {
             }
             // Custom Sizing
             Color.green
+                                    // Custom axis being uses
                 .containerRelativeFrame(axis) { length, axis in
                     if axis == .horizontal {
-                        return length / 10
+                        return length / 2
                     } else {
                         return length / 2
                     }
@@ -38,10 +39,10 @@ struct ContainerRelativeFrameBootCamp: View {
                 .padding()
             Text("Text 1")
                 .padding()
-                .border(Color.red) // Without relativeFrame
+                .border(Color.red, width: 5.0) // Without relativeFrame
                 .containerRelativeFrame([.horizontal])
                 .padding()
-                .border(Color.black) // With relativeFrame
+                .border(Color.black, width: 5.0) // With relativeFrame
         }
     }
 }

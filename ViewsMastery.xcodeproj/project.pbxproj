@@ -19,6 +19,7 @@
 		EE0827B22B738C8E001585D4 /* DiscloureGroupBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0827B12B738C8E001585D4 /* DiscloureGroupBootCamp.swift */; };
 		EE0827B42B738E38001585D4 /* GauageBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0827B32B738E38001585D4 /* GauageBootCamp.swift */; };
 		EE0827B62B738F95001585D4 /* GroupBoxBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0827B52B738F95001585D4 /* GroupBoxBootCamp.swift */; };
+		EE0827B82B739070001585D4 /* LabelledContentBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0827B72B739070001585D4 /* LabelledContentBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		EE0827B12B738C8E001585D4 /* DiscloureGroupBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscloureGroupBootCamp.swift; sourceTree = "<group>"; };
 		EE0827B32B738E38001585D4 /* GauageBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GauageBootCamp.swift; sourceTree = "<group>"; };
 		EE0827B52B738F95001585D4 /* GroupBoxBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxBootCamp.swift; sourceTree = "<group>"; };
+		EE0827B72B739070001585D4 /* LabelledContentBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelledContentBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				EE0827B12B738C8E001585D4 /* DiscloureGroupBootCamp.swift */,
 				EE0827B32B738E38001585D4 /* GauageBootCamp.swift */,
 				EE0827B52B738F95001585D4 /* GroupBoxBootCamp.swift */,
+				EE0827B72B739070001585D4 /* LabelledContentBootCamp.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				EE0827B42B738E38001585D4 /* GauageBootCamp.swift in Sources */,
 				EE0827952B72176A001585D4 /* ContentUnavailableBootCamp.swift in Sources */,
 				EE0827912B720F92001585D4 /* ViewThatFitsBootCamp.swift in Sources */,
+				EE0827B82B739070001585D4 /* LabelledContentBootCamp.swift in Sources */,
 				EE0827B22B738C8E001585D4 /* DiscloureGroupBootCamp.swift in Sources */,
 				EE08278F2B71472A001585D4 /* ControlGroupBootCamp.swift in Sources */,
 				EE08278D2B714407001585D4 /* ScrollViewReaderBootCamp.swift in Sources */,

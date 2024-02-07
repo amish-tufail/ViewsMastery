@@ -63,6 +63,7 @@
 			children = (
 				EE08277D2B6FF7FB001585D4 /* ViewsMasteryApp.swift */,
 				EE08278B2B713771001585D4 /* Layout Views */,
+				EE0827B02B738B88001585D4 /* Control Views */,
 				EE0827812B6FF7FD001585D4 /* Assets.xcassets */,
 				EE0827832B6FF7FD001585D4 /* Preview Content */,
 			);
@@ -88,6 +89,13 @@
 				EE0827942B72176A001585D4 /* ContentUnavailableBootCamp.swift */,
 			);
 			path = "Layout Views";
+			sourceTree = "<group>";
+		};
+		EE0827B02B738B88001585D4 /* Control Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Control Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
